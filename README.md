@@ -1,6 +1,6 @@
 # minishell
 
-Minishell is a shell program written in C that provides a simplified command-line interface for executing commands and managing processes. It aims to replicate basic functionalities of a Unix shell, such as command execution, I/O redirection, piping, and handling of environment variables. The subject of the project can be found in this [link](https://raw.githubusercontent.com/angelamcosta/minishell/main/en.subject.pdf).
+Minishell is a shell program written in C that provides a simplified command-line interface for executing commands and managing processes. It aims to replicate basic functionalities of a Unix shell, such as command execution, I/O redirection, piping, and handling of environment variables. The subject of the project can be found in this [link](https://github.com/eMahmoud2021/minishell/blob/master/fr.subject.pdf).
 
 ## Instructions
 
